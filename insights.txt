@@ -1,0 +1,7 @@
+- Top category by sales: Electronics (Rs 92,505,199), 57.1% of total revenue.
+- Highest margin category: Clothing (25.1%); lowest: Furniture (3.0%).
+- Top region: North with Rs 44,888,213 sales; weakest: East.
+- Discounts hurt profitability: avg margin falls from 17.4% (no discount) to -0.4% (30% discount).
+- 12.5% of orders are loss-making, mostly on heavy discounts.
+- Oct-Dec quarter (Q4) contributes 29.8% of total sales: festive-season seasonality.
+- Top 10% customers generate 27.8% of revenue.
